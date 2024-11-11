@@ -133,7 +133,7 @@ export const projects = [
   {
     id: 6,
     title: "Seki Halsel",
-    des: "Seki Halsel application is a digital solution designed to manage personnel data and support regional education and training. This application employs a multi-tenant feature, allowing a master application, https://sekihalsel.4visionmedia.net, to serve as the central management hub for various subsidiary applications such as https://bappelitbangda.sekihalsel.4visionmedia.net and others. This approach enables each unit or agency to independently access and manage their data while remaining integrated within the same system, thereby enhancing data efficiency and consistency.",
+    des: "Seki Halsel application is a digital solution designed to manage personnel data and support regional education and training. This application employs a multi-tenant feature, allowing a master application, sekihalsel.4visionmedia.net, to serve as the central management hub for various subsidiary applications such as bappelitbangda.sekihalsel.4visionmedia.net and others. This approach enables each unit or agency to independently access and manage their data while remaining integrated within the same system, thereby enhancing data efficiency and consistency.",
     img: "project/thumbnail/sekihalsel.png",
     iconLists: [
       "project/technology/laravel.svg",
